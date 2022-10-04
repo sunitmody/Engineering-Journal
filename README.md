@@ -11,4 +11,6 @@
 *   List all node versions
     *   nvm list
 *   Link to NVM doc
-    *   https://github.com/nvm-sh/nvm
+    *   [https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+
+## Git Commands
