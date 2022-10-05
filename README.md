@@ -15,6 +15,9 @@
 
 ## Git Commands
 
+*   Rename branch
+    *   git branch -m \<new branch name>
+
 ## Terminal (Unix) Commands
 
 *   Basic UNIX Commands
