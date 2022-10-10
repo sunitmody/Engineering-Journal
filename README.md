@@ -17,6 +17,9 @@
 
 *   Rename branch
     *   git branch -m \<new branch name>
+*   Delete local git repo
+    *   rm -rf \<repo name>.git
+    *   rm -rf \<repo name>
 
 ## Terminal (Unix) Commands
 
