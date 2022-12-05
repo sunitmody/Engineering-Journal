@@ -20,10 +20,6 @@
 *   Delete local git repo
     *   rm -rf \<git repo name>.git
     *   rm -rf \<git repo name>
-*   Delete a local git repository
-    *   go to the folder the repo is located in
-    *   rm -rf <repo>.git  
-    *   rm -rf <repo>
     
 ## Terminal (Unix) Commands
 
