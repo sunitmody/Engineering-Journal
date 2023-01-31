@@ -20,14 +20,16 @@
 *   Delete local git repo
     *   rm -rf \<git repo name>.git
     *   rm -rf \<git repo name>
-    
+*   Cancel a git merge
+    *   git-reset or git merge --abort
+
 ## Terminal (Unix) Commands
 
 *   Basic UNIX Commands
     *   https://mally.stanford.edu/~sr/computing/basic-unix.html
 *   To move a file from your Downloads folder to a Work folder in your Documents folder
     *   % mv ~/Downloads/MyFile.txt ~/Documents/Work/MyFile.txt
-    
+
 ## VS Code
 
 *   Accept all incoming changes
