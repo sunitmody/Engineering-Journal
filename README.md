@@ -22,6 +22,9 @@
     *   rm -rf \<git repo name>
 *   Cancel a git merge
     *   git-reset or git merge --abort
+*   Reset to older commit in remote branch (dangerous if someone has pulled down changes in the commit you're deleting)
+    *   git reset --hard \<commit-hash>
+    *   git push -f origin \<branch-name>
 
 ## Terminal (Unix) Commands
 
@@ -34,3 +37,5 @@
 
 *   Accept all incoming changes
     *   Press Ctrl+shift+p (command palette) or go to view and open command palette manually and type "merge" in your command palette, now you can see the Accept all incoming changes.
+*   Open default settings
+    *   Press F1, type in "open settings" go to Preferences: Open Default Settings (JSON)
