@@ -39,3 +39,7 @@
     *   Press Ctrl+shift+p (command palette) or go to view and open command palette manually and type "merge" in your command palette, now you can see the Accept all incoming changes.
 *   Open default settings
     *   Press F1, type in "open settings" go to Preferences: Open Default Settings (JSON)
+*   Find and replace all occurrences of words in all files
+    *   Press ctrl + shift + h
+    *   Enter the word you want to replace on top input, and the word you want to replace to on the next input
+    *   Click the button next to the second input to replace all of the occurrences
