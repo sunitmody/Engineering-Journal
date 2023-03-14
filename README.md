@@ -43,3 +43,5 @@
     *   Press ctrl + shift + h
     *   Enter the word you want to replace on top input, and the word you want to replace to on the next input
     *   Click the button next to the second input to replace all of the occurrences
+*   Find and replace all occurrences of words in one file
+    *   Highlight some text and then press ctrl + shift + l
