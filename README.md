@@ -45,3 +45,5 @@
     *   Click the button next to the second input to replace all of the occurrences
 *   Find and replace all occurrences of words in one file
     *   Highlight some text and then press ctrl + shift + l
+*   Format current file (e.g. with Prettier)
+    *   alt + shift + f
