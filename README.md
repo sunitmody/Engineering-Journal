@@ -25,6 +25,10 @@
 *   Reset to older commit in remote branch (dangerous if someone has pulled down changes in the commit you're deleting)
     *   git reset --hard \<commit-hash>
     *   git push -f origin \<branch-name>
+*   Discard local uncommitted git changes
+    *   git reset –hard
+    *   git clean -fxd
+ 
 
 ## Terminal (Unix) Commands
 
