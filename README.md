@@ -36,6 +36,7 @@
     *   try npm cache clean --force and then try npm i again
     *   delete node-modules folder and try npm i again
     *   try installing in a different terminal (e.g vscode terminal)
+    *   restart terminal or restart compouter and try again
 
 ## Terminal (Unix) Commands
 
