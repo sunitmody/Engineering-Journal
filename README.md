@@ -28,7 +28,13 @@
 *   Discard local uncommitted git changes
     *   git reset –hard
     *   git clean -fxd
- 
+
+## NPM
+
+*   If you have npm install issues
+    *   delete package-lock.json file and try npm i again
+    *   try npm cache clean --force and then try npm i again
+    *   delete node-modules folder and try npm i again    
 
 ## Terminal (Unix) Commands
 
