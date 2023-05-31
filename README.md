@@ -28,7 +28,7 @@
 *   Discard local uncommitted git changes
     *   git reset –hard
     *   git clean -fxd
-*   Undo last commit while leaving your working tree (the state of your files on disk) untouched
+*   Undo last local commit while leaving your working tree (the state of your files on disk) untouched
     *   git reset HEAD~    
 
 ## NPM
