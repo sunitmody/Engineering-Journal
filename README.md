@@ -61,3 +61,5 @@
     *   Highlight some text and then press ctrl + shift + l
 *   Format current file (e.g. with Prettier)
     *   alt + shift + f
+*   Useful Keyboard Shortcuts
+    *   https://semicolon.dev/tutorial/vscode/keyboard-shortcuts
