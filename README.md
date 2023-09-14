@@ -29,7 +29,10 @@
     *   git reset –hard
     *   git clean -fxd
 *   Undo last local commit while leaving your working tree (the state of your files on disk) untouched
-    *   git reset HEAD~    
+    *   git reset HEAD~
+*   Delete all local branches besides "develop" or "master" etc.
+    *   mac (terminal): git branch | %{ $_.Trim() } | ?{ $_ -ne 'master' } | ?{ $_ -ne 'main'} | ?{ $_ -ne 'develop'} | %{ git branch -D $_ }
+    *   windows (powershell): git branch | grep -v "develop" | grep -v "master" | grep -v "main" | xargs git branch -D
 
 ## NPM
 
