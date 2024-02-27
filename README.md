@@ -49,6 +49,9 @@
     *   https://mally.stanford.edu/~sr/computing/basic-unix.html
 *   To move a file from your Downloads folder to a Work folder in your Documents folder
     *   % mv ~/Downloads/MyFile.txt ~/Documents/Work/MyFile.txt
+*   Something is already running on port 3000
+    *   $ lsof -i tcp:3000
+    *   $ kill -9 PID
 
 ## VS Code
 
