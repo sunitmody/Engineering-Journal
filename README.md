@@ -33,7 +33,9 @@
 *   Delete all local branches besides "develop" or "master" etc.
     *   windows (powershell): git branch | %{ $_.Trim() } | ?{ $_ -ne 'master' } | ?{ $_ -ne 'main'} | ?{ $_ -ne 'develop'} | %{ git branch -D $_ }
     *   mac (terminal): git branch | grep -v "develop" | grep -v "master" | grep -v "main" | xargs git branch -D
-
+*   Rollback to a previous commit and checkout into a branch
+    *   git checkout <commithash> -b <branchname>
+    
 ## NPM
 
 *   If you have npm install issues
