@@ -35,6 +35,8 @@
     *   mac (terminal): git branch | grep -v "develop" | grep -v "master" | grep -v "main" | xargs git branch -D
 *   Rollback to a previous commit and checkout into a branch
     *   git checkout < commithash > -b < branchname >
+*   Commit and get past linting errors such as unused vars
+    *   git commit -m "Commit Message" --no-verify
     
 ## NPM
 
