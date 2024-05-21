@@ -37,6 +37,8 @@
     *   git checkout < commithash > -b < branchname >
 *   Commit and get past linting errors such as unused vars
     *   git commit -m "Commit Message" --no-verify
+*   error: cannot lock ref
+    *   git remote prune origin
     
 ## NPM
 
