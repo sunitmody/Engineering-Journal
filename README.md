@@ -75,3 +75,9 @@
     *   alt + shift + f
 *   Useful Keyboard Shortcuts
     *   https://semicolon.dev/tutorial/vscode/keyboard-shortcuts
+    
+## Browser Debugger
+
+*   Which DOM element has focus?
+    *   In the console type in "document.activeElement"
+
