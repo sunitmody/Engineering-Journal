@@ -80,4 +80,19 @@
 
 *   Which DOM element has focus?
     *   In the console type in "document.activeElement"
+    
+## Variable Naming Casing
+
+*   Snake Case
+    *   separates each word with an underscore character
+    *   number_of_donuts = 34
+*   Camel Case
+    *   start by making the first word lowercase. Then, you capitalize the first letter of each word that follows
+    *   numberOfDonuts = 34
+*   Kebab Case
+    *   separates each word with a dash character
+    *   number-of-donuts = 34
+*   Pascal Case
+    *   like camel case but the first letter of the first word is also capitalized
+    *   NumberOfDonuts = 34
 
