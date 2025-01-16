@@ -77,6 +77,10 @@
     *   alt + shift + f
 *   Useful Keyboard Shortcuts
     *   https://semicolon.dev/tutorial/vscode/keyboard-shortcuts
+*   Format code on save in VS Code
+    *   Add the following to your settings.json file:
+    *   "editor.formatOnSave": true
+
     
 ## Browser Debugger
 
