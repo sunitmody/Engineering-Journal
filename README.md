@@ -87,7 +87,7 @@
 *   Which DOM element has focus?
     *   In the console type in "document.activeElement"
     
-## Variable Naming Casing
+## Variable Name Casing
 
 *   Snake Case
     *   separates each word with an underscore character
