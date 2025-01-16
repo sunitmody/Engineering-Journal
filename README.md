@@ -61,6 +61,8 @@
 
 ## VS Code
 
+*   Settings editor
+    *   To open the Settings editor, navigate to Code > Settings > Settings. Alternately, open the Settings editor from the Command Palette (⇧⌘P) with Preferences: Open Settings or use the keyboard shortcut (⌘,).
 *   Accept all incoming changes
     *   Press Ctrl+shift+p (command palette) or go to view and open command palette manually and type "merge" in your command palette, now you can see the Accept all incoming changes.
 *   Open default settings
